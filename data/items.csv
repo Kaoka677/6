@@ -1,0 +1,20 @@
+# ID, Name, Type, Value, Weight, Attack, Defense
+wpn_01,Kiếm Đá Gỉ,Weapon,50,4000,10,0
+wpn_02,Kiếm Vuốt Sói,Weapon,300,3500,35,0
+wpn_03,Đại Kiếm Thép Đen,Weapon,1200,8000,80,0
+wpn_99,Vũ Khí Của Chúa Tể,Weapon,9999,1000,200,0
+arm_01,Giáp Gỗ,Armor,50,3000,0,5
+arm_02,Giáp Da Sói,Armor,300,2500,0,20
+arm_03,Giáp Thép Nặng,Armor,1500,15000,0,55
+csm_01,Bình Máu Nhỏ,Consumable,50,500,0,0
+csm_02,Bình Máu Lớn,Consumable,200,800,0,0
+mat_w1,Răng Sói,Material,10,100,0,0
+mat_w2,Nanh Sói Cứng,Material,30,200,0,0
+mat_w3,Tinh Thể Sói,Material,100,500,0,0
+mat_t1,Gỗ Ma Quỷ,Material,10,200,0,0
+mat_t2,Gỗ Cường Hóa,Material,30,400,0,0
+mat_t3,Lõi Cây Thuần Khiết,Material,100,800,0,0
+mat_s1,Mảnh Thép Vỡ,Material,50,500,0,0
+mat_s2,Thỏi Thép Đen,Material,150,1000,0,0
+mat_g1,Đá Cổ Ngữ,Material,50,1500,0,0
+mat_g2,Lõi Golem,Material,150,3000,0,0

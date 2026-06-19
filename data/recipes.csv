@@ -1,0 +1,13 @@
+# Ingredient1, Ingredient2, ResultItemID
+mat_w1,mat_w1,mat_w2
+mat_w2,mat_w2,mat_w3
+mat_t1,mat_t1,mat_t2
+mat_t2,mat_t2,mat_t3
+mat_w3,mat_t3,wpn_02
+mat_w3,mat_w3,arm_02
+mat_s1,mat_s1,mat_s2    
+mat_g1,mat_g1,mat_g2
+mat_s2,mat_g2,wpn_03
+mat_s2,mat_s2,arm_03
+mat_w1,mat_t1,csm_01
+csm_01,csm_01,csm_02

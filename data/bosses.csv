@@ -1,0 +1,6 @@
+# ID, Name, HP, Attack, Defense, Speed, DropItemID
+boss_01,Sói Điên Đột Biến,80,12,5,12,mat_w1
+boss_02,Mộc Yêu Ngàn Năm,120,10,8,8,mat_t1
+boss_03,Hiệp Sĩ Lưu Vong,350,45,20,15,mat_s1
+boss_04,Golem Đá Cổ Đại,500,30,40,6,mat_g1
+boss_05,Chúa Tể Bóng Tối,1500,100,70,25,wpn_99
